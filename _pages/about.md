@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Your Position</a> at <a href='#'>Your University / Company</a>
+subtitle: M.S. Student in Computer Science and Engineering at <a href='https://www.sogang.ac.kr/'>Sogang University</a>
 
 profile:
   align: right
@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a **[your position]** at **[your university / company]**, working on **[your research area]**.
+Hi! I am a Master's student in Computer Science and Engineering at **Sogang University**, Seoul, Korea, since Spring 2026.
+I am a member of **ISLAB**, advised by [Prof. JaeSeung Choi](https://islab-sogang.github.io/).
 
-Write a short biography here: your background, what problems you care about, and what you are working on now.
-You can link to your [advisor or lab](#) and highlight _key ideas_ in your research.
+I received my B.S. in Computer Science and Engineering from **Sogang University** (Mar. 2020 – Feb. 2026).
 
 My research interests include:
 
-- Research interest 1
-- Research interest 2
-- Research interest 3
+- Software Testing
+- AI for Software Engineering (AI4SE)
+- Software Security
