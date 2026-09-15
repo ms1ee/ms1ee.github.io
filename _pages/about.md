@@ -35,6 +35,9 @@ latest_posts:
   .post-header .desc:empty {
     display: none;
   }
+  .post-header .post-title .font-weight-bold {
+    font-weight: inherit !important;
+  }
   @media (min-width: 576px) {
     .profile {
       width: 22%;
