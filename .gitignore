@@ -22,3 +22,15 @@ __pycache__/
 
 # local build preview
 _preview/
+
+# LaTeX build artifacts from cv/
+cv/*.aux
+cv/*.bbl
+cv/*.blg
+cv/*.fdb_latexmk
+cv/*.fls
+cv/*.log
+cv/*.out
+cv/*.synctex.gz
+cv/*.toc
+cv/*.xdv
