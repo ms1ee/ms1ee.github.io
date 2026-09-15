@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class="info-label">Email</div>
-    <p><a href="mailto:minseoklee@sogang.ac.kr">minseoklee@sogang.ac.kr</a></p>
+    <p class="info-email"><a href="mailto:minseoklee@sogang.ac.kr">minseoklee@sogang.ac.kr</a></p>
     <div class="info-label">Location</div>
     <p>Seoul, Korea</p>
     <div class="profile-socials">
@@ -62,6 +62,9 @@ latest_posts:
     display: block;
     margin: 0 0 1.25rem;
     overflow-wrap: anywhere;
+  }
+  .profile .more-info .info-email {
+    font-size: 0.85rem;
   }
   .profile .more-info .info-label {
     margin-bottom: 0.25rem;
