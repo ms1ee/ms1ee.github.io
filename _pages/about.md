@@ -75,7 +75,10 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     </tr>
     <tr>
       <th scope="row">Feb. 2026</th>
-      <td>Graduated with a B.S. in <a href="https://cs.sogang.ac.kr/cs/index_new.html">Computer Science and Engineering</a>, Magna Cum Laude.</td>
+      <td>
+        Graduated Magna Cum Laude with a B.S. in <a href="https://cs.sogang.ac.kr/cs/index_new.html">Computer Science and Engineering</a> from
+        <a href="https://sogang.ac.kr/ko/home">Sogang University</a>.
+      </td>
     </tr>
     <tr>
       <th scope="row">Fall 2025</th>
