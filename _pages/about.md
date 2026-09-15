@@ -63,6 +63,10 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
 <div class="news">
   <table class="table table-sm table-borderless">
     <tr>
+      <th scope="row">Aug. 2026</th>
+      <td>Submitted a paper on improving the splicing strategy of AFL++, now under review.</td>
+    </tr>
+    <tr>
       <th scope="row">Mar. 2026</th>
       <td>
         Started my M.S. at <a href="https://sogang.ac.kr/ko/home">Sogang University</a>, joining ISLAB (advised by
