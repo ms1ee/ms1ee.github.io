@@ -40,4 +40,4 @@ I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogan
 Before that, I received my B.S. in Computer Science and Engineering from Sogang University (Mar. 2020 – Feb. 2026).
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
-More recently, I have been exploring how **AI agents** can enhance testing tools such as fuzzers and help discover vulnerabilities more effectively.
+More recently, I have been exploring **AI for Software Engineering (AI4SE)**, especially leveraging AI agents to improve fuzzing and vulnerability discovery.
