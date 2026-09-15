@@ -8,10 +8,16 @@ profile:
   image: MinseokLee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div class="info-label">Email</div>
+    <p><a href="mailto:minseoklee@sogang.ac.kr">minseoklee@sogang.ac.kr</a></p>
+    <div class="info-label">Location</div>
     <p>Seoul, Korea</p>
+    <div class="profile-socials">
+      <a href="https://github.com/ms1ee" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # contact links are shown under the profile photo instead
 
 announcements:
   enabled: false # includes a list of news items
@@ -32,6 +38,36 @@ latest_posts:
     .profile {
       width: 22%;
     }
+  }
+  .profile .more-info {
+    margin-top: 1.25rem;
+    padding: 0 0.5rem;
+    font-family: inherit;
+  }
+  .profile .more-info p {
+    display: block;
+    margin: 0 0 1.25rem;
+    overflow-wrap: anywhere;
+  }
+  .profile .more-info .info-label {
+    margin-bottom: 0.25rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light, #828282);
+  }
+  .profile .profile-socials {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    font-size: 1.75rem;
+  }
+  .profile .profile-socials a {
+    color: var(--global-text-color-light, #828282);
+  }
+  .profile .profile-socials a:hover {
+    color: var(--global-theme-color);
   }
 </style>
 
