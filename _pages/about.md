@@ -6,7 +6,7 @@ subtitle: M.S. Student in Computer Science and Engineering at <a href='https://w
 
 profile:
   align: right
-  image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your photo
+  image: MinseokLee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Seoul, Korea</p>
