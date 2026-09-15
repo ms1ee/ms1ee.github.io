@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student in Computer Science and Engineering at <a href='https://www.sogang.ac.kr/'>Sogang University</a>
 
 profile:
   align: right
@@ -25,13 +24,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Master's student in Computer Science and Engineering at **Sogang University**, Seoul, Korea, since Spring 2026.
-I am a member of **ISLAB**, advised by [Prof. JaeSeung Choi](https://islab-sogang.github.io/).
+<style>
+  .post-header .desc:empty {
+    display: none;
+  }
+  @media (min-width: 576px) {
+    .profile {
+      width: 22%;
+    }
+  }
+</style>
 
-I received my B.S. in Computer Science and Engineering from **Sogang University** (Mar. 2020 – Feb. 2026).
+Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr/), Seoul, Korea, where I have been since Spring 2026.
+I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
+Before that, I received my B.S. in Computer Science and Engineering from Sogang University in February 2026.
 
-My research interests include:
-
-- Software Testing
-- AI for Software Engineering (AI4SE)
-- Software Security
+My research lies at the intersection of **software testing**, **software security**, and **AI for software engineering (AI4SE)**.
+Modern software is too large and complex to be checked by hand, and the bugs that slip through often turn into security vulnerabilities.
+I am interested in building automated techniques that find such bugs before attackers do, and in exploring how recent advances in AI,
+such as large language models, can make these techniques smarter, more scalable, and easier to apply to real-world software.
