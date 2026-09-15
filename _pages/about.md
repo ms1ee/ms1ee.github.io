@@ -112,8 +112,8 @@ More recently, I have been exploring **AI for Software Engineering (AI4SE)**, es
       <td>Won the Excellence Award (3rd place) at the Capstone Design Competition.</td>
     </tr>
     <tr>
-      <th scope="row">Apr. 2025</th>
-      <td>Started a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.</td>
+      <th scope="row">Apr.–Oct. 2025</th>
+      <td>Completed a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.</td>
     </tr>
   </table>
 </div>
