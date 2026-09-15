@@ -1,12 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: null
+permalink: https://ms1ee.github.io/assets/pdf/cv.pdf # navbar links straight to the CV PDF
 title: cv
 nav: true
 nav_order: 1
-# cv_pdf: /assets/pdf/cv.pdf # uncomment after adding your CV PDF to assets/pdf/ to show a download button
-cv_format: rendercv # options: rendercv, jsonresume
-description: Edit this page in _data/cv.yml.
-toc:
-  sidebar: left
+sitemap: false
 ---
