@@ -1,0 +1,53 @@
+cv:
+  name: Minseok Lee
+  label: Your Position
+  email: mslee1063@gmail.com
+  location: Seoul, Korea
+  image: ""
+  summary: One or two sentences about who you are and what you work on.
+
+  social_networks:
+    - network: GitHub
+      username: ms1ee
+
+  sections:
+    Education:
+      - institution: Your University
+        location: Seoul, Korea
+        url: ""
+        area: Computer Science
+        studyType: B.S.
+        start_date: 2020-03
+        end_date: present
+        highlights:
+          - GPA, thesis, or other highlights.
+
+    Experience:
+      - company: Your Lab or Company
+        position: Research Intern
+        location: Seoul, Korea
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - What you worked on.
+          - What you achieved.
+
+    Awards:
+      - title: Example Award
+        date: 2025-12-01
+        awarder: Awarding Organization
+        summary: Short description of the award.
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "C, C++, Python"
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Linux, Git, Docker"
+
+    Languages:
+      - name: Korean
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
