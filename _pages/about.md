@@ -13,6 +13,7 @@ profile:
     <div class="info-label">Location</div>
     <p>Seoul, Korea</p>
     <div class="profile-socials">
+      <a href="https://www.linkedin.com/in/minseok-lee-93ba22304/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
       <a href="https://github.com/ms1ee" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
     </div>
 
