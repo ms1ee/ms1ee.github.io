@@ -35,9 +35,9 @@ latest_posts:
   }
 </style>
 
-Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr/), Seoul, Korea, where I have been since Spring 2026.
+Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr/), Seoul, Korea (Mar. 2026 – present).
 I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
-Before that, I received my B.S. in Computer Science and Engineering from Sogang University in February 2026.
+Before that, I received my B.S. in Computer Science and Engineering from Sogang University (Mar. 2020 – Feb. 2026).
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
 More recently, I have been exploring how **AI agents** can enhance testing tools such as fuzzers and help discover vulnerabilities more effectively.
