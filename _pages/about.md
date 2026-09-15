@@ -32,6 +32,10 @@ latest_posts:
 ---
 
 <style>
+  :root {
+    --global-theme-color: #2c7da0;
+    --global-hover-color: #2c7da0;
+  }
   .post-header .desc:empty {
     display: none;
   }
