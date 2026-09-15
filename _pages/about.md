@@ -93,9 +93,3 @@ More recently, I have been exploring **AI for Software Engineering (AI4SE)**, es
 - **Dec. 2025** — Presented a poster at the Korea Software Congress (KSC) 2025.
 - **Fall 2025** — Won the Excellence Award (3rd place) at the Capstone Design Competition.
 - **Apr. 2025** — Started a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.
-
-## Publications
-
-- **Constructing a Korean Legal Multiple-Choice Dataset for Large Reasoning Model Training** (in Korean)<br>
-  Minjoon Kim, Eunsu Song, Jihun Song, **Minseok Lee**, Du-Seong Chang<br>
-  _Korea Software Congress (KSC) 2025_, Poster
