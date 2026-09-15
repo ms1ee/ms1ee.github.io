@@ -36,6 +36,12 @@ latest_posts:
     --global-theme-color: #2c7da0;
     --global-hover-color: #2c7da0;
   }
+  .news th {
+    width: 20%;
+    padding-right: 1rem;
+    font-weight: bold;
+    white-space: nowrap;
+  }
   .post-header .desc:empty {
     display: none;
   }
@@ -88,7 +94,23 @@ More recently, I have been exploring **AI for Software Engineering (AI4SE)**, es
 
 ## Recent News
 
-- **Mar. 2026** — Started my M.S. at Sogang University, joining ISLAB (advised by Prof. Jaeseung Choi).
-- **Feb. 2026** — Graduated with a B.S. in Computer Science and Engineering, Magna Cum Laude.
-- **Fall 2025** — Won the Excellence Award (3rd place) at the Capstone Design Competition.
-- **Apr. 2025** — Started a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.
+<div class="news">
+  <table class="table table-sm table-borderless">
+    <tr>
+      <th scope="row">Mar. 2026</th>
+      <td>Started my M.S. at Sogang University, joining ISLAB (advised by Prof. Jaeseung Choi).</td>
+    </tr>
+    <tr>
+      <th scope="row">Feb. 2026</th>
+      <td>Graduated with a B.S. in Computer Science and Engineering, Magna Cum Laude.</td>
+    </tr>
+    <tr>
+      <th scope="row">Fall 2025</th>
+      <td>Won the Excellence Award (3rd place) at the Capstone Design Competition.</td>
+    </tr>
+    <tr>
+      <th scope="row">Apr. 2025</th>
+      <td>Started a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.</td>
+    </tr>
+  </table>
+</div>
