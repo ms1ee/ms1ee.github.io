@@ -56,7 +56,7 @@ Before that, I received my B.S. in Computer Science and Engineering from Sogang 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
 More recently, I have been exploring **AI for Software Engineering (AI4SE)**, especially leveraging AI agents to improve software testing and vulnerability discovery.
 
-Please feel free to reach out to me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)**!
+You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)**!
 
 ## Recent News
 

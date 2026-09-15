@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Minseok
 middle_name:
 last_name: Lee
-contact_note: >
-  Email is the best way to reach me.
+contact_note: # text shown under the social icons at the bottom of the about page
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal homepage of Minseok Lee.
 footer_text: >
