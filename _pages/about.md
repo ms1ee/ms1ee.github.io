@@ -85,3 +85,17 @@ Before that, I received my B.S. in Computer Science and Engineering from Sogang 
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
 More recently, I have been exploring **AI for Software Engineering (AI4SE)**, especially leveraging AI agents to improve software testing and vulnerability discovery.
+
+## Recent News
+
+- **Mar. 2026** — Started my M.S. at Sogang University, joining ISLAB (advised by Prof. Jaeseung Choi).
+- **Feb. 2026** — Graduated with a B.S. in Computer Science and Engineering, Magna Cum Laude.
+- **Dec. 2025** — Presented a poster at the Korea Software Congress (KSC) 2025.
+- **Fall 2025** — Won the Excellence Award (3rd place) at the Capstone Design Competition.
+- **Apr. 2025** — Started a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.
+
+## Publications
+
+- **Constructing a Korean Legal Multiple-Choice Dataset for Large Reasoning Model Training** (in Korean)<br>
+  Minjoon Kim, Eunsu Song, Jihun Song, **Minseok Lee**, Du-Seong Chang<br>
+  _Korea Software Congress (KSC) 2025_, Poster
