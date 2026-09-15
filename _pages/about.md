@@ -36,6 +36,9 @@ latest_posts:
     --global-theme-color: #2c7da0;
     --global-hover-color: #2c7da0;
   }
+  #recent-news {
+    clear: both;
+  }
   .news th {
     width: 20%;
     padding-right: 1rem;
@@ -88,7 +91,7 @@ latest_posts:
   }
 </style>
 
-Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr/), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
+Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://sogang.ac.kr/ko/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
 I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
 Before that, I received my B.S. in Computer Science and Engineering from Sogang University (Mar. 2020 – Feb. 2026).
 
@@ -101,11 +104,14 @@ More recently, I have been exploring **AI for Software Engineering (AI4SE)**, es
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">Mar. 2026</th>
-      <td>Started my M.S. at Sogang University, joining ISLAB (advised by Prof. Jaeseung Choi).</td>
+      <td>
+        Started my M.S. at <a href="https://sogang.ac.kr/ko/home">Sogang University</a>, joining ISLAB (advised by
+        <a href="https://islab-sogang.github.io/">Prof. Jaeseung Choi</a>).
+      </td>
     </tr>
     <tr>
       <th scope="row">Feb. 2026</th>
-      <td>Graduated with a B.S. in Computer Science and Engineering, Magna Cum Laude.</td>
+      <td>Graduated with a B.S. in <a href="https://cs.sogang.ac.kr/cs/index_new.html">Computer Science and Engineering</a>, Magna Cum Laude.</td>
     </tr>
     <tr>
       <th scope="row">Fall 2025</th>
