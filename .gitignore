@@ -22,6 +22,3 @@ __pycache__/
 
 # local build preview
 _preview/
-
-# CV LaTeX sources stay local; only the compiled PDF is published
-cv/
