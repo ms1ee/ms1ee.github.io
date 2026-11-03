@@ -63,6 +63,21 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
 <div class="news">
   <table class="table table-sm table-borderless">
     <tr>
+      <th scope="row">Oct. 2026</th>
+      <td>
+        Our paper on improving splicing in grey-box fuzzing was accepted to <em>Computers, Materials &amp; Continua (CMC)</em>!
+        [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
+        [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Sep. 2026</th>
+      <td>
+        Submitted my first-author paper, <em>RareRank</em>, on seed queue minimization for grey-box fuzzing to <em>IEEE Access</em>, now under review.
+        [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
+      </td>
+    </tr>
+    <tr>
       <th scope="row">Aug. 2026</th>
       <td>Submitted a paper on improving the splicing strategy of AFL++, now under review.</td>
     </tr>
