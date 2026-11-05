@@ -76,7 +76,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Sep. 2026</th>
       <td>
-        Submitted my first-author paper, RareRank, to IEEE Access, now under review.
+        Submitted RareRank to IEEE Access, now under review.
         [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
       </td>
     </tr>
