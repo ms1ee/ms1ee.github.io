@@ -78,10 +78,6 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
       </td>
     </tr>
     <tr>
-      <th scope="row">Aug. 2026</th>
-      <td>Submitted a paper on improving the splicing strategy of AFL++, now under review.</td>
-    </tr>
-    <tr>
       <th scope="row">Mar. 2026</th>
       <td>
         Started my M.S. at <strong>Sogang University</strong>, advised by <strong>Prof. Jaeseung Choi</strong>.
