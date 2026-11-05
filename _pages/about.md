@@ -84,8 +84,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Mar. 2026</th>
       <td>
-        Started my M.S. at <strong>Sogang University</strong>, joining ISLAB (advised by
-        <strong>Prof. Jaeseung Choi</strong>).
+        Started my M.S. at <strong>Sogang University</strong>, advised by <strong>Prof. Jaeseung Choi</strong>.
       </td>
     </tr>
     <tr>
@@ -95,12 +94,16 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
       </td>
     </tr>
     <tr>
-      <th scope="row">Fall 2025</th>
+      <th scope="row">Dec. 2025</th>
       <td>Won the Excellence Award (3rd place) at the Capstone Design Competition.</td>
     </tr>
     <tr>
       <th scope="row">Apr.–Oct. 2025</th>
       <td>Completed a collaborative research project with the <strong>National Security Research Institute</strong> on directed fuzzing using LLMs.</td>
+    </tr>
+    <tr>
+      <th scope="row">Jan. 2025</th>
+      <td>Joined <strong>ISLAB</strong> as an undergraduate researcher.</td>
     </tr>
   </table>
 </div>
