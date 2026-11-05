@@ -73,7 +73,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Sep. 2026</th>
       <td>
-        Submitted my first-author paper, <em>RareRank</em>, on seed queue minimization for grey-box fuzzing to <em>IEEE Access</em>, now under review.
+        Submitted my first-author paper, <em>RareRank</em>, to <em>IEEE Access</em>, now under review.
         [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
       </td>
     </tr>
@@ -85,7 +85,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
       <th scope="row">Mar. 2026</th>
       <td>
         Started my M.S. at Sogang University, joining ISLAB (advised by
-        <a href="https://islab-sogang.github.io/">Prof. Jaeseung Choi</a>).
+        <strong>Prof. Jaeseung Choi</strong>).
       </td>
     </tr>
     <tr>
