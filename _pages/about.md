@@ -53,7 +53,7 @@ latest_posts:
 </style>
 
 Hi! I am an M.S. student in [Computer Science and Engineering](https://computing.sogang.ac.kr/ko) at [Sogang University](https://www.sogang.ac.kr/en/home), Seoul, Korea, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/) in the **Information Security Lab (ISLAB)**.
-I received my B.S. from Sogang University, magna cum laude, in Feb. 2026.
+I received my B.S. magna cum laude from Sogang University in Feb. 2026.
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
 More recently, I have been working on **AI for Security**, using large language models (LLMs) to improve software testing and vulnerability analysis.
