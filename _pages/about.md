@@ -49,7 +49,7 @@ latest_posts:
   }
 </style>
 
-Hi! I am an M.S. student in Computer Science and Engineering at [Sogang University](https://sogang.ac.kr/ko/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
+Hi! I am an M.S. student in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) at [Sogang University](https://sogang.ac.kr/ko/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
 I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
 Before that, I received my B.S. in Computer Science and Engineering, *magna cum laude*, from Sogang University (Mar. 2020 – Feb. 2026).
 
@@ -84,15 +84,14 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Mar. 2026</th>
       <td>
-        Started my M.S. at <a href="https://sogang.ac.kr/ko/home">Sogang University</a>, joining ISLAB (advised by
+        Started my M.S. at Sogang University, joining ISLAB (advised by
         <a href="https://islab-sogang.github.io/">Prof. Jaeseung Choi</a>).
       </td>
     </tr>
     <tr>
       <th scope="row">Feb. 2026</th>
       <td>
-        Graduated Magna Cum Laude with a B.S. in <a href="https://cs.sogang.ac.kr/cs/index_new.html">Computer Science and Engineering</a> from
-        <a href="https://sogang.ac.kr/ko/home">Sogang University</a>.
+        Graduated <em>magna cum laude</em> with a B.S. from Sogang University.
       </td>
     </tr>
     <tr>
