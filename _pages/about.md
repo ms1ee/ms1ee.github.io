@@ -65,7 +65,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Oct. 2026</th>
       <td>
-        Our paper on improving splicing in grey-box fuzzing was accepted to <em>Computers, Materials &amp; Continua (CMC)</em>!
+        Our paper on improving splicing in grey-box fuzzing was accepted to Computers, Materials &amp; Continua (CMC)!
         [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
         [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
       </td>
@@ -73,7 +73,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Sep. 2026</th>
       <td>
-        Submitted my first-author paper, <em>RareRank</em>, to <em>IEEE Access</em>, now under review.
+        Submitted my first-author paper, RareRank, to IEEE Access, now under review.
         [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
       </td>
     </tr>
@@ -86,7 +86,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Feb. 2026</th>
       <td>
-        Graduated <em>magna cum laude</em> with a B.S. from <strong>Sogang University</strong>.
+        Graduated magna cum laude with a B.S. from <strong>Sogang University</strong>.
       </td>
     </tr>
     <tr>
