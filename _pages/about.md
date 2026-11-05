@@ -90,10 +90,6 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
       </td>
     </tr>
     <tr>
-      <th scope="row">Dec. 2025</th>
-      <td>Won the Excellence Award (3rd place) at the Capstone Design Competition.</td>
-    </tr>
-    <tr>
       <th scope="row">Apr.–Oct. 2025</th>
       <td>Completed a collaborative research project with the <strong>National Security Research Institute</strong> on directed fuzzing using LLMs.</td>
     </tr>
