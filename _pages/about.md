@@ -51,7 +51,7 @@ latest_posts:
 
 Hi! I am an M.S. student in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) at [Sogang University](https://sogang.ac.kr/ko/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
 I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
-Before that, I received my B.S. in Computer Science and Engineering, *magna cum laude*, from Sogang University (Mar. 2020 – Feb. 2026).
+Before that, I received my B.S. in Computer Science and Engineering, magna cum laude, from Sogang University (Mar. 2020 – Feb. 2026).
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
 More recently, I have been exploring **AI for Software Engineering (AI4SE)**, especially leveraging AI agents to improve software testing and vulnerability discovery.
@@ -65,7 +65,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Oct. 2026</th>
       <td>
-        Our paper on improving splicing in grey-box fuzzing was accepted to Computers, Materials &amp; Continua (CMC)!
+        Our paper, SPAFL++, was accepted to Computers, Materials &amp; Continua (CMC)!
         [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
         [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
       </td>
