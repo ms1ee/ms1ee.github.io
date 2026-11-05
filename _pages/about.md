@@ -54,7 +54,7 @@ I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogan
 Before that, I received my B.S. in Computer Science and Engineering, magna cum laude, from Sogang University (Mar. 2020 – Feb. 2026).
 
 My research focuses on **software testing**, especially **fuzzing**, to automatically discover security vulnerabilities in modern software.
-More recently, I have been working on **AI for Security**, using large language models (LLMs) to improve software testing and vulnerability discovery.
+More recently, I have been working on **AI for Security**, using large language models (LLMs) to improve software testing and vulnerability analysis.
 
 You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)**!
 
