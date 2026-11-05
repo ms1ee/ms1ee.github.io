@@ -49,7 +49,7 @@ latest_posts:
   }
 </style>
 
-Hi! I am an M.S. student in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) at [Sogang University](https://sogang.ac.kr/ko/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
+Hi! I am an M.S. student in [Computer Science and Engineering](https://computing.sogang.ac.kr/ko) at [Sogang University](https://www.sogang.ac.kr/en/home), Seoul, Korea, in the combined B.S.–M.S. program (Mar. 2026 – present).
 I am a member of **ISLAB**, advised by [Prof. Jaeseung Choi](https://islab-sogang.github.io/).
 Before that, I received my B.S. in Computer Science and Engineering, magna cum laude, from Sogang University (Mar. 2020 – Feb. 2026).
 
