@@ -30,6 +30,9 @@ latest_posts:
   #recent-news {
     clear: both;
   }
+  .publications li {
+    margin-bottom: 0.75rem;
+  }
   .news th {
     width: 20%;
     padding-right: 1rem;
@@ -98,4 +101,24 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
       <td>Joined <strong>ISLAB</strong> as an undergraduate researcher.</td>
     </tr>
   </table>
+</div>
+
+## Publications
+
+<div class="publications">
+  <ul>
+    <li>
+      Y. Ahn, <strong>M. Lee</strong>, S. Kim, and J. Choi.
+      "Enhancing Splicing in Grey-box Fuzzing with Coverage-guided Target Selection and Adaptive Energy Scheduling."
+      Computers, Materials &amp; Continua (CMC), 2026.
+      [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
+      [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
+    </li>
+    <li>
+      <strong>M. Lee</strong>, S. Kim, and J. Choi.
+      "RareRank: Frequency-Based Seed Queue Minimization for Rank-Aware Seed Scheduling in Grey-Box Fuzzing."
+      IEEE Access, under review.
+      [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
+    </li>
+  </ul>
 </div>
