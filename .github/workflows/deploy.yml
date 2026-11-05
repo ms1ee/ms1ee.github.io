@@ -60,6 +60,11 @@ on:
 permissions:
   contents: write
 
+# Cancel older deploys so a slow earlier run can't overwrite gh-pages with stale content
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
