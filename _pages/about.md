@@ -84,14 +84,14 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Mar. 2026</th>
       <td>
-        Started my M.S. at Sogang University, joining ISLAB (advised by
+        Started my M.S. at <strong>Sogang University</strong>, joining ISLAB (advised by
         <strong>Prof. Jaeseung Choi</strong>).
       </td>
     </tr>
     <tr>
       <th scope="row">Feb. 2026</th>
       <td>
-        Graduated <em>magna cum laude</em> with a B.S. from Sogang University.
+        Graduated <em>magna cum laude</em> with a B.S. from <strong>Sogang University</strong>.
       </td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     </tr>
     <tr>
       <th scope="row">Apr.–Oct. 2025</th>
-      <td>Completed a collaborative research project with the National Security Research Institute on directed fuzzing using LLMs.</td>
+      <td>Completed a collaborative research project with the <strong>National Security Research Institute</strong> on directed fuzzing using LLMs.</td>
     </tr>
   </table>
 </div>
