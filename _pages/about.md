@@ -67,16 +67,9 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Nov. 2026</th>
       <td>
-        Our paper, SPAFL++, is now published in Computers, Materials &amp; Continua (CMC)!
+        Our paper, SPAFL++, is now published in Computers, Materials &amp; Continua!
         [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
-        [<a href="https://doi.org/10.32604/cmc.2026.090168">DOI</a>]
         [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">Oct. 2026</th>
-      <td>
-        Our paper, SPAFL++, was accepted to Computers, Materials &amp; Continua (CMC)!
       </td>
     </tr>
     <tr>
