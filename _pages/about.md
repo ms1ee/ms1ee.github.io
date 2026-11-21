@@ -67,16 +67,13 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Nov. 2026</th>
       <td>
-        Our paper, SPAFL++, is now published in Computers, Materials &amp; Continua!
-        [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
-        [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
+        Our paper, SPAFL++, is now published in Computers, Materials &amp; Continua (CMC)!
       </td>
     </tr>
     <tr>
       <th scope="row">Sep. 2026</th>
       <td>
         Submitted RareRank to IEEE Access, now under review.
-        [<a href="https://github.com/infosec-sogang/RareRank-artifact">artifact</a>]
       </td>
     </tr>
     <tr>
@@ -115,7 +112,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <li>
       Y. Ahn, <strong>M. Lee</strong>, S. Kim, and J. Choi.
       "Enhancing Splicing in Grey-Box Fuzzing with Coverage-Guided Target Selection and Adaptive Energy Scheduling."
-      Computers, Materials &amp; Continua, 2026.
+      Computers, Materials &amp; Continua (CMC), 2026.
       [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
       [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
     </li>
