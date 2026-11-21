@@ -115,9 +115,8 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <li>
       Y. Ahn, <strong>M. Lee</strong>, S. Kim, and J. Choi.
       "Enhancing Splicing in Grey-Box Fuzzing with Coverage-Guided Target Selection and Adaptive Energy Scheduling."
-      Computers, Materials &amp; Continua (CMC), 2026.
+      Computers, Materials &amp; Continua, 2026.
       [<a href="{{ '/assets/pdf/splicing-cmc.pdf' | relative_url }}">paper</a>]
-      [<a href="https://doi.org/10.32604/cmc.2026.090168">DOI</a>]
       [<a href="https://github.com/infosec-sogang/Splicing-Artifact">artifact</a>]
     </li>
   </ul>
