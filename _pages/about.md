@@ -67,7 +67,7 @@ You can reach me at **[minseoklee@sogang.ac.kr](mailto:minseoklee@sogang.ac.kr)*
     <tr>
       <th scope="row">Nov. 2026</th>
       <td>
-        Our paper, SPAFL++, is now published in Computers, Materials &amp; Continua (CMC)!
+        Our paper, SPAFL++, is published in Computers, Materials &amp; Continua (CMC)!
       </td>
     </tr>
     <tr>
